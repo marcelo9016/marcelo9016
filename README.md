@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my improving my knowledge in data analytics
+- 🔭 I'm currently working on my improving my knowledge in data analytics
 - 🌱 I’m currently learning tool like SQL, Tableau, Power BI and Python
 - 👯 I’m looking to collaborate on a job who help me to develop all my skills
 - 🤔 I’m looking for help with opportunities to grow in this wonderful world of data
