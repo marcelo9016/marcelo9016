@@ -1,9 +1,14 @@
-## Hi there 👋
+**👋 ¡Hola! Mi nombre es Marcelo Castelo** 
 
-- 🔭 I'm currently working on my improving my knowledge in data analytics
-- 🌱 I’m currently learning tool like SQL, Tableau, Power BI and Python
-- 👯 I’m looking to collaborate on a job who help me to develop all my skills
-- 🤔 I’m looking for help with opportunities to grow in this wonderful world of data
-- 💬 Ask me about my abilities and how can we help us together
-- 📫 How to reach me: marcelo9016@gmail.com
-- ⚡ Fun fact: Once I start to create dashboards I can't stop and that's one of the reasons I almost have forgot how hot coffee taste.
+Soy un apasionado por los datos 📊 y la optimización 🔧. Me encanta crear dashboards ✨, validar datos ✅ y descubrir patrones ocultos 🔎. Si hay números dando pistas, yo los descifro 🕵️‍♂️. ¡Siempre en busca de transformar información en decisiones estratégicas 🚀!
+
+**Habilidades**  
+**Python:** Análisis de datos, visualización y depuración de código.  
+**SQL:** Consultas eficientes, manejo de bases de datos y optimización de procesos.  
+**Tableau:** Creación de dashboards interactivos y visualización de datos efectiva.  
+**Excel:** Validación de datos, uso de fórmulas avanzadas y optimización de procesos.  
+
+**📩 Contacto:**
+
+**Email:** marcelo9016@gmail.com
+
