@@ -13,7 +13,7 @@ Soy un apasionado por los datos 📊 y la optimización 🔧. Me encanta crear d
 **Tableau:** Creación de dashboards interactivos y visualización de datos efectiva.  
 **Excel:** Validación de datos, uso de fórmulas avanzadas y optimización de procesos.  
 
-**📩 Contacto:**
+**📩 #Contacto:**
 
 **Email:** marcelo9016@gmail.com
 
