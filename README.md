@@ -1,5 +1,8 @@
 **👋 ¡Hola! Mi nombre es Marcelo Castelo** 
 
+![Mi Banner](URL-DE-TU-IMAGEN)
+
+
 Soy un apasionado por los datos 📊 y la optimización 🔧. Me encanta crear dashboards ✨, validar datos ✅ y descubrir patrones ocultos 🔎. Si hay números dando pistas, yo los descifro 🕵️‍♂️. ¡Siempre en busca de transformar información en decisiones estratégicas 🚀!
 
 **Habilidades**  
