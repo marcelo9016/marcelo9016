@@ -1,6 +1,7 @@
 **👋 ¡Hola! Mi nombre es Marcelo Castelo** 
 
-![Mi Banner]([URL-DE-TU-IMAGEN](https://github.com/marcelo9016/marcelo9016/blob/main/marcelo.png))
+![mi Banner](https://github.com/marcelo9016/marcelo9016/blob/main/marcelo.png)
+
 
 
 Soy un apasionado por los datos 📊 y la optimización 🔧. Me encanta crear dashboards ✨, validar datos ✅ y descubrir patrones ocultos 🔎. Si hay números dando pistas, yo los descifro 🕵️‍♂️. ¡Siempre en busca de transformar información en decisiones estratégicas 🚀!
